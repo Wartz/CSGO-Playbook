@@ -1,0 +1,77 @@
+#Community guides
+http://steamcommunity.com/sharedfiles/filedetails/?id=322206521
+http://tools.dathost.net/
+http://www.dcgaming.org/set-up-your-csgo-like-a-pro/
+http://www.netcodeguides.com/blog/cs-go-tips-and-tricks-cs-go-guide/
+https://www.reddit.com/r/GlobalOffensive/comments/2s1zmf/practicing_your_spray_patterns/
+https://www.reddit.com/r/GlobalOffensive/comments/2s1qli/small_tip_on_getting_into_a_bombsite/
+http://csgolikeapro.com/index.php?title=Guide
+http://csgohelp.com/
+http://steamcommunity.com/sharedfiles/filedetails/?id=225142771https://www.youtube.com/watch?v=PsSsxWlTEPQ
+
+#Youtube guides
+https://www.youtube.com/watch?v=5LA6t4Fwb8Y
+https://www.youtube.com/watch?v=gRJI8tgsaq4&index=2&list=WL
+https://www.youtube.com/watch?v=RSUrqNRoZZM&index=3&list=WL
+https://www.youtube.com/watch?v=chjEg6gqYzs&index=4&list=WL
+https://www.youtube.com/watch?v=KAuP09GYYqE&index=5&list=WL
+https://www.youtube.com/watch?v=k-FBd3GIB3c&index=6&list=WL
+https://www.youtube.com/watch?v=ns9srRoDop8
+https://www.youtube.com/watch?v=3t8XFAIg5jA
+https://www.youtube.com/watch?v=RwT5fXEloxg
+https://www.youtube.com/watch?v=ct8U06Wonhk
+https://www.youtube.com/watch?v=aV4zoQ_2YM8
+https://www.youtube.com/watch?v=M-KeXyqZU7Y
+https://www.youtube.com/watch?v=P_aDQDtcd-8
+https://www.youtube.com/watch?v=sbeNho-9sNY
+https://www.youtube.com/watch?v=xVgRg3OQRcs
+https://www.youtube.com/watch?v=2JZmvUfh1qE
+https://www.youtube.com/watch?v=4BzxQAIVkoA
+https://www.youtube.com/watch?v=0JD9stzvMAk
+https://www.youtube.com/watch?v=fV1oCcO6xEw&index=38&list=WL
+https://www.youtube.com/watch?v=fx0XuAdqMrI&index=37&list=WL
+https://www.youtube.com/watch?v=75oWqTIs95E&index=36&list=WL
+https://www.youtube.com/watch?v=9FW4RdxBQn8&index=35&list=WL
+https://www.youtube.com/watch?v=SJr3ykEnvg8&index=34&list=WL
+https://www.youtube.com/watch?v=2JZmvUfh1qE&index=33&list=WL
+https://www.youtube.com/watch?v=QVVNvlBgCX4&index=32&list=WL
+https://www.youtube.com/watch?v=wSlmulfdF4M&index=31&list=WL
+https://www.youtube.com/watch?v=TjPD-yx15O4&index=30&list=WL
+https://www.youtube.com/watch?v=1GjblY7c9DM&index=29&list=WL
+https://www.youtube.com/watch?v=VvBOII1iMds&index=28&list=WL
+https://www.youtube.com/watch?v=bcqqLypwo4w&index=27&list=WL
+https://www.youtube.com/watch?v=pEs33eYNmWI&index=26&list=WL
+https://www.youtube.com/watch?v=dI6LvosjI_I&index=25&list=WL
+https://www.youtube.com/watch?v=MXgsHEj_Kns&index=24&list=WL
+https://www.youtube.com/watch?v=dt5Kt9XfhxM&index=23&list=WL
+https://www.youtube.com/watch?v=YWaahu0nYX0&index=22&list=WL
+https://www.youtube.com/watch?v=yGajXk9mmtY&index=21&list=WL
+https://www.youtube.com/watch?v=uCZ6GEB_I5U&index=20&list=WL
+https://www.youtube.com/watch?v=4fKxZ1mq9KA
+https://www.youtube.com/watch?v=SDhHbYEI5NE&list=WL&index=47
+https://www.youtube.com/watch?v=Cs35JEdwQjA&list=WL&index=48
+https://www.youtube.com/watch?v=qM8EVhPML6w&list=WL&index=46
+https://www.youtube.com/watch?v=aVmqv3z4gnA
+
+#Launch Options
+Put these commands into your Launch Options by right-clicking on CS: GO's properties in the Steam library and clicking "Set Launch Options":
+
+`
+-freq 144 -novid -console -threads 4 -high +cl_updaterate 128 +cl_cmdrate 128 +cl_interp 0 +cl_interp_ratio 1 +rate 128000 -noaafonts -noforcemparms -noforcemaccel -noforcemspd`
+
+Additionally I can recommend this webpage if you don't know anything about launch options!
+
+http://csgohelp.com/launch-options/
+
+Descriptions:
+
+-freq 144: *For 144hz monitors* 
+-novid: No intro video!
+-console: Console starts with game!
+-threads 4: Number of threads your CPU core supports. An AMD quadcore has 4 threads. An Intel i7 has 8 threads.
+-high: High priority in Task-Manager!
++cl_updaterate 128 ; +cl_cmdrate 128 ; +cl_interp 0 ; +cl_interp_ratio 1 ; +rate 128000: As you can see, these are some commands which also start with the Autoexec. They affect your NetSettings in general!
+-noaafonts: No Anti-Aliasing on fonts! --> More FPS
+-noforcemparms ; -noforcemaccel ; -noforcemspd: Some commands for true and better mousefeeling
+
+
