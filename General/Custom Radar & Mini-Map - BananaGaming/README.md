@@ -9,6 +9,9 @@
 
 http://bananagaming.tv/custom-radarmini-map/
 
+##Dust 2
 ![Alt Text](d2-1024x576.png "Dust 2") 
+##Mirage
 ![Alt Text](mirage-1024x576.png "Mirage") 
+##Inferno
 ![Alt Text](inferno-1024x576.png "Inferno") 
