@@ -1,0 +1,7 @@
+#Smokes for all maps!
+
+Special thanks to KODIAK who created this insane guide! :)
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=359458939
+
+And Kodiak, if you read this, I tried to add you a few times but you always ignored me :(
